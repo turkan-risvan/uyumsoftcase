@@ -18,9 +18,8 @@ assets klasörümüzde bulunuan json örnekleri
 ![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/7230f9ab-e2d0-4736-9638-4f2c1e330e0d)
 
 
-  
- ![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/f581a417-44d7-4a01-9ec7-2094d586f594)
+![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/5d481b00-ccbe-43ab-a9ac-e0c3a3482256)
+![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/faf190fd-f68e-43ad-a5cf-249583c06702)
 
-![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/67259bed-3ebf-47d8-9d65-1858a0973fbb)
 
 
