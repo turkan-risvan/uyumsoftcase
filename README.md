@@ -14,11 +14,13 @@
 -  Örneğin, bir API'den gelen JSON verilerini kullanarak dinamik olarak arayüz oluşturmak istiyorsanız, bu tür bir kütüphane size kolaylık sağlayabilir. JSON'daki veri yapısını analiz ederek, dinamik olarak widget'lar oluşturabilir ve ekranınızı güncelleyebilirsiniz.
 
 assets klasörümüzde bulunuan json örnekleri
+- Projeyi incelediğinizde json örnekleri göreceksiniz bunlarla farklı farklı örnekler yapabilirsiniz.
 ![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/7230f9ab-e2d0-4736-9638-4f2c1e330e0d)
 
-- Projeyi incelediğinizde json örnekleri göreceksiniz bunlarla farklı farklı örnekler yapabilirsiniz.
-- 
-![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/9f9c97ab-001d-4c5e-b958-ab2e464f0fc3)
+
+  
+ ![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/f581a417-44d7-4a01-9ec7-2094d586f594)
+
 ![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/67259bed-3ebf-47d8-9d65-1858a0973fbb)
 
 
