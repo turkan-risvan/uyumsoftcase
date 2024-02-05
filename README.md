@@ -16,7 +16,9 @@
 assets klasörümüzde bulunuan json örnekleri
 ![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/7230f9ab-e2d0-4736-9638-4f2c1e330e0d)
 
-Projeyi incelediğinizde json örnekleri göreceksiniz bunlarla farklı farklı örnekler yapabilirsiniz.
+- Projeyi incelediğinizde json örnekleri göreceksiniz bunlarla farklı farklı örnekler yapabilirsiniz.
+- 
 ![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/9f9c97ab-001d-4c5e-b958-ab2e464f0fc3)
-![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/0a73e074-beed-4ff0-a12d-6897ffe77d38)
+![image](https://github.com/turkan-risvan/uyumsoftcase/assets/78659151/67259bed-3ebf-47d8-9d65-1858a0973fbb)
+
 
